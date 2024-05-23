@@ -556,11 +556,15 @@ hr {
     width: 100%;
     margin: 20px;
    } 
+   .headding-banner h1,.headding-banner p{
+    text-align: center;
+    width: 100%;
+   }
    .icon-image{
     position: fixed;
     top:0px;
    }
-   .navbar-list{
+   .main-navbar{
     display: none;
    }
    .navbar-banner>div,.join-the-future-info{
